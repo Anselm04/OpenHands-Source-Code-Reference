@@ -1,0 +1,43 @@
+{
+  "upstream": "https://github.com/OpenHands/OpenHands.git",
+  "upstream_commit": "46f20abafecbd03c422213bff4bc4499607b9b4f",
+  "audited_main_commit": "57f1c6d670b012da77bc763f23f500a0a0e61667",
+  "upstream_git_entries": 2916,
+  "main_git_entries": 2894,
+  "missing_count": 24,
+  "excluded_ci_paths_count": 24,
+  "other_missing_count": 0,
+  "object_or_mode_mismatch_count": 0,
+  "extra_count": 2,
+  "missing_paths": [
+    ".github/workflows/bump-chart.yml",
+    ".github/workflows/ci-script-tests.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/desktop-linux.yml",
+    ".github/workflows/desktop-macos.yml",
+    ".github/workflows/desktop-windows.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/issue-duplicate-checker.yml",
+    ".github/workflows/issue-readiness-check.yml",
+    ".github/workflows/mock-llm-docker-e2e.yml",
+    ".github/workflows/mock-llm-e2e.yml",
+    ".github/workflows/npm-publish.yml",
+    ".github/workflows/pr-artifacts-tests.yml",
+    ".github/workflows/pr-artifacts.yml",
+    ".github/workflows/pr-description-check.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/release-ready.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/remove-duplicate-candidate-label.yml",
+    ".github/workflows/sdk-version-sync.yml",
+    ".github/workflows/update-debian-snapshot.yml",
+    ".github/workflows/verify-skill-isolation-tests.yml",
+    ".github/workflows/verify-skill-isolation.yml",
+    ".github/workflows/windows-install-e2e.yml"
+  ],
+  "mismatches": [],
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ]
+}
