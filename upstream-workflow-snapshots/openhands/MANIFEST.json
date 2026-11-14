@@ -1,0 +1,152 @@
+{
+  "source": "https://github.com/OpenHands/OpenHands.git",
+  "commit": "46f20abafecbd03c422213bff4bc4499607b9b4f",
+  "number_of_original_workflow_files": 24,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/bump-chart.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/bump-chart.yml",
+      "git_blob": "07e3ab22142c3d55713f26f66a63fbf79ff32638",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/ci-script-tests.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/ci-script-tests.yml",
+      "git_blob": "b9595a8cd640f4fb6cb7fe93d02f3eab5f232e87",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/ci.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/ci.yml",
+      "git_blob": "e504e9f1b86474f7e43a931150522dbf9b043dac",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/desktop-linux.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/desktop-linux.yml",
+      "git_blob": "48469002f8ec04049b8e679ae41bf3d52a56dfa3",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/desktop-macos.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/desktop-macos.yml",
+      "git_blob": "30bc7e03173ca369ca5096373da49cc701be01b5",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/desktop-windows.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/desktop-windows.yml",
+      "git_blob": "c722cd82d588960d1e444f5fdff1f1d34effe1a1",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/docker.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/docker.yml",
+      "git_blob": "b1094831d144e1b058c0602afd65debf00e50bcd",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/issue-duplicate-checker.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/issue-duplicate-checker.yml",
+      "git_blob": "6acc155120f3c2d2c3023e6b9d8e811810732020",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/issue-readiness-check.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/issue-readiness-check.yml",
+      "git_blob": "68dba2a0bf8ba2258a670974c06629433228b981",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/mock-llm-docker-e2e.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/mock-llm-docker-e2e.yml",
+      "git_blob": "67c3291bf1c1ccadc10d45c58ff0c89628281552",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/mock-llm-e2e.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/mock-llm-e2e.yml",
+      "git_blob": "162fe3ae2399ed5d66bf804f8253cd62b5e11b5a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/npm-publish.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/npm-publish.yml",
+      "git_blob": "5923a75e3e65a11915c5a5a08d26b42cecfc871f",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pr-artifacts-tests.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/pr-artifacts-tests.yml",
+      "git_blob": "7230e6c19961cf22d000b32ccbb6b88cc2e2f23c",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pr-artifacts.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/pr-artifacts.yml",
+      "git_blob": "022e528190c6d385fa542c3d1ecb5ec255396a35",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pr-description-check.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/pr-description-check.yml",
+      "git_blob": "1460a32847d1cce0a2fddd28891e59000f6511fc",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pr.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/pr.yml",
+      "git_blob": "fa017cc9550707fd3a48205d3d14745b709419c9",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release-ready.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/release-ready.yml",
+      "git_blob": "d78222d4fdb81424dc17d66e637faa31bf8425cc",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/release.yml",
+      "git_blob": "bb376316ca2c18de60e266fe09c01b5999af4a85",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/remove-duplicate-candidate-label.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/remove-duplicate-candidate-label.yml",
+      "git_blob": "bb408414fc7ebb1149e228cdd9fac0041162db36",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/sdk-version-sync.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/sdk-version-sync.yml",
+      "git_blob": "db9f930f0bcca51ac5331d6a366daf0625e771a2",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/update-debian-snapshot.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/update-debian-snapshot.yml",
+      "git_blob": "e05a2ce8d9db4afb81f662ffa76e2a1d87953cfa",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/verify-skill-isolation-tests.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/verify-skill-isolation-tests.yml",
+      "git_blob": "6129c8255b2b6a0a58c9a05ba571c6c89981007a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/verify-skill-isolation.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/verify-skill-isolation.yml",
+      "git_blob": "81d5763ccbf67f9d963fca3344e61b366a191775",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/windows-install-e2e.yml",
+      "reference_path": "upstream-workflow-snapshots/openhands/.github/workflows/windows-install-e2e.yml",
+      "git_blob": "7582b217c99913ff4d0803a01e979746059d0dec",
+      "original_mode": "100644"
+    }
+  ]
+}
